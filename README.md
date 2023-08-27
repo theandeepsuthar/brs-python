@@ -10,4 +10,7 @@ The book dataset (book.csv) used in this project is not included in the reposito
 2. Place the downloaded file in the appropriate directory of the project.
 
 Please note that the dataset file size is 64 MB, and it may take some time to download depending on your internet connection. Once you have the dataset file, you can proceed with the project setup and run the recommendation system.
+## project video
+https://github.com/thesandeepsuthar/brs-python/assets/96325817/2d41909a-9f5d-43e7-9702-941f6758dd4d
+
 
